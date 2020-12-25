@@ -25,4 +25,4 @@ Hi, I'm B. Kanhu Charan, a Front-end Developer 🚀 from India. Currently, I'm w
 [<img align="left" alt="facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/bkanhu7/)
  <a href="mailto:iamkanhuc@gmail.com"> <img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bkanhu&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bkanhu&count_private=true&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
