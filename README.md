@@ -1,12 +1,12 @@
 <!-- Greeting -->
 
-##### Hi there 👋
+## Hi there 👋
 
 <!--Introduction -->
-<!-- 
 Hi, I'm _B. Kanhu Charan_, a Front-end Developer 🚀 from Sonepur, Odisha, IN. I'm passionate about making modern, responsive websites.
 Besides programming, I enjoy drinking Coffee and taking pictures of Nature.
 
+<!--
 ## 💼 Things that I'm currently working on:
 
 - Improving my Front-End Web💻 Development skills.
@@ -89,9 +89,9 @@ Besides programming, I enjoy drinking Coffee and taking pictures of Nature.
 
 <hr> -->
 <!--Github Stats -->
-<!-- 
+
 [![bkanhu's github stats](https://github-readme-stats.vercel.app/api?username=bkanhu&count_private=true&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 Show some ❤️ by starring some of the repositories!
 
-Thanks for Visiting!😇 -->
+Thanks for Visiting!😇 
