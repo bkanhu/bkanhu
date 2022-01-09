@@ -8,7 +8,7 @@ Besides programming, I enjoy drinking Coffee and taking pictures of Nature.
 
 
 - 💼 Things that I'm currently working on: Improving my Front-End Web💻 Development skills.
--  🥅 Currently pursuing B.Tech from KIIT University
+-  🥅 Currently pursuing MCA from Trident Academy, Bhubaneswar
 - 🌱 Goals for 2021: Build few projects, Contribute to Open Source.
 - 💭 Ask me about : Web design, front-end development, choosing a custom pc or a right laptop for you
 - ⚡ Fun fact: I love to read about Space and listening to music all day.
