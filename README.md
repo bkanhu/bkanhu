@@ -1,16 +1,17 @@
 <!-- Greeting -->
 
-## Hi there 👋
+## Hi, I’m Kanhu 👋  
 
 <!--Introduction -->
-Hi, I'm _B. Kanhu Charan_, a Front-end Developer 🚀 based in Bhubaneswar, Odisha, IN. I'm passionate about making modern, responsive websites.
+I work as a Frontend Developer at [SkentinoTech](https://github.com/skentinodev), where I build and maintain UI-heavy applications. You can also check out my work here [bkanhu10](https://github.com/bkanhu10).
 
 - 💼 Things that I'm currently working on: Improving my Front-End Web💻 Development skills.
-- 💭 Ask me about : Web design, front-end development, choosing a custom pc or a right laptop for you
+- 👨‍💻 Frontend Developer | MERN Stack
+- 🌱 Currently learning DevOps  
 - ⚡ Fun fact: I love to read about Space and listening to music all day.
 - 😄  Pronouns: He/Him
 - 📫 Connect with me:
-  - [Website](https://bkanhu.xyz)
+  - [Website](https://bkanhu.netlify.app)
   - [Linkedin](https://linkedin.com/in/bkanhu)
   - [Twitter](https://twitter.com/bkanhu7)
-  - [Mail](mailto:hello@bkanhu.xyz)
+  - [Mail](mailto:iamkanhuc@gmail.com)
