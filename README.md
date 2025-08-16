@@ -8,7 +8,6 @@ I work as a Frontend Developer at [SkentinoTech](https://github.com/skentinodev)
 - 👨‍💻 Frontend Developer | MERN Stack
 - 🌱 Currently learning DevOps  
 - ⚡ Fun fact: I love to read about Space and listening to music all day.
-- 😄  Pronouns: He/Him
 - 📫 Connect with me:
   - [Website](https://bkanhu.netlify.app)
   - [Linkedin](https://linkedin.com/in/bkanhu)
